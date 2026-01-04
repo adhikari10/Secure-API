@@ -180,7 +180,7 @@ Traditional security asks one question. **We ask two:**
 ### 2D Decision Matrix
 > Visual representation of actor × intent classification
 
-![Decision Matrix](./screenshots/decision-matrix.png)
+![Decision Matrix](./screenshots/security(2D).png)
 *Heatmap showing traffic patterns across actor and intent types*
 
 ---
